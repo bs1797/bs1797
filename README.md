@@ -24,7 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bs1797&theme=dark&show_icons=true" alt="bs1797Stats" />  
   <br />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twisteddevelopment&layout=compact&theme=dark" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bs1797&layout=compact&theme=dark" alt="top-langs" />
 </p>
 
 
