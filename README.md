@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Billy Schneider</h1>
-<h3 align="center">A passionate frontend developer from Tennessee, Father to Sara Monroe</h3>
+<h3 align="center">A passionate frontend developer from Tennessee, Father to Sara Monroe, loving husband to Savannah</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bs1797&label=Profile%20views&color=0e75b6&style=flat" alt="bs1797" /> </p>
 
