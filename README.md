@@ -20,7 +20,7 @@
 
 📈 My Github stats <br />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shwetang550&theme=dark&show_icons=true" alt="bs1797Stats" />  
+  <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?bs1797=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)" alt="bs1797Stats" />  
   <br />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bs1797&layout=compact&theme=dark" alt="top-langs" />
