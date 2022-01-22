@@ -1,4 +1,4 @@
-<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://bs1797.github.io/profile/">bs1797</a></h2>
+<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://github.com/bs1797">bs1797</a></h2>
 <p align="center">
   <a href="https://www.linkedin.com/in">LinkedIN</a> •
   <a href="https://www.instagram.com">Instagram</a> •
