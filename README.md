@@ -21,7 +21,7 @@
 
 📈 My Github stats <br />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=twisteddevelopment&theme=dark&show_icons=true" alt="bs1797Stats" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=bs1797&theme=dark&show_icons=true" alt="bs1797Stats" />  
   <br />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bs1797&layout=compact&theme=dark" alt="top-langs" />
