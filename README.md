@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Billy Schneider</h1>
-<h3 align="center">A passionate frontend developer from Tennessee, Father to Sara Monroe, loving husband to Savannah</h3>
+<h3 align="center">A passionate frontend LUA developer from Tennessee, Father to Sara Monroe, loving husband to Savannah</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bs1797&label=Profile%20views&color=0e75b6&style=flat" alt="bs1797" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bs1797" alt="bs1797" /></a> </p>
 
-- 🔭 I’m currently working on **Twisted Development creating fun server for Fivem Project**
+- 🔭 I’m currently working on **Twisted Development creating fun servers for a Fivem Project**
 
-- 🌱 I’m currently mastering **QBCore Framework and learning python**
+- 🌱 I’m currently mastering **Core Framework and extending studies**
 
 - 👯 I’m looking to collaborate on **Lua projects and server aspects**
 
-- 🤝 I’m looking for help with **PHP and java**
+- 🤝 I’m looking for help with **PHP and HTML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Twisted-Development](https://github.com/Twisted-Development)
 
